@@ -1,6 +1,6 @@
 # Análisis y Mejora de la Calidad en la Empresa AK
 
-## Objetivo:
+## Objetivo
 En el panorama empresarial actual, garantizar y mejorar la calidad de productos o servicios es crucial para el éxito de las empresas. La calidad se ha convertido en un factor crítico para satisfacer las demandas de los clientes y diferenciar negocios en un entorno altamente competitivo.
 
 Este proyecto tiene como objetivo abordar la importancia de la calidad centrándose en la implementación de un Sistema de Gestión de Calidad (SGC). El Sistema de Gestión de Calidad es un conjunto de elementos que, cuando se integran, permiten que una empresa funcione de manera eficiente y efectiva. El objetivo no es solo mejorar la calidad de los productos o servicios, sino también mejorar la eficiencia con la que se entregan.
